@@ -1,0 +1,12 @@
+C:\Users\Jerke\Desktop\new\Programmeren1\oef1\bin\Debug\oef1.exe.config
+C:\Users\Jerke\Desktop\new\Programmeren1\oef1\bin\Debug\oef1.exe
+C:\Users\Jerke\Desktop\new\Programmeren1\oef1\bin\Debug\oef1.pdb
+C:\Users\Jerke\Desktop\new\Programmeren1\oef1\obj\Debug\oef1.csprojResolveAssemblyReference.cache
+C:\Users\Jerke\Desktop\new\Programmeren1\oef1\obj\Debug\oef1.Form1.resources
+C:\Users\Jerke\Desktop\new\Programmeren1\oef1\obj\Debug\oef1.Properties.Resources.resources
+C:\Users\Jerke\Desktop\new\Programmeren1\oef1\obj\Debug\oef1.csproj.GenerateResource.Cache
+C:\Users\Jerke\Desktop\new\Programmeren1\oef1\obj\Debug\oef1.exe
+C:\Users\Jerke\Desktop\new\Programmeren1\oef1\obj\Debug\oef1.pdb
+C:\Users\Jerke\Documents\School\Prog 1\gitprog1\Programmeren1\oef01\bin\Debug\oef1.exe.config
+C:\Users\Jerke\Documents\School\Prog 1\gitprog1\Programmeren1\oef01\obj\Debug\oef1.exe
+C:\Users\Jerke\Documents\School\Prog 1\gitprog1\Programmeren1\oef01\obj\Debug\oef1.pdb

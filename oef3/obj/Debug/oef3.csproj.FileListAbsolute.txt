@@ -1,0 +1,9 @@
+C:\Users\Jerke\Desktop\new\Programmeren1\oef3\bin\Debug\oef3.exe.config
+C:\Users\Jerke\Desktop\new\Programmeren1\oef3\bin\Debug\oef3.exe
+C:\Users\Jerke\Desktop\new\Programmeren1\oef3\bin\Debug\oef3.pdb
+C:\Users\Jerke\Desktop\new\Programmeren1\oef3\obj\Debug\oef3.oef3.resources
+C:\Users\Jerke\Desktop\new\Programmeren1\oef3\obj\Debug\oef3.Properties.Resources.resources
+C:\Users\Jerke\Desktop\new\Programmeren1\oef3\obj\Debug\oef3.csproj.GenerateResource.Cache
+C:\Users\Jerke\Desktop\new\Programmeren1\oef3\obj\Debug\oef3.exe
+C:\Users\Jerke\Desktop\new\Programmeren1\oef3\obj\Debug\oef3.pdb
+C:\Users\Jerke\Desktop\new\Programmeren1\oef3\obj\Debug\oef3.csprojResolveAssemblyReference.cache

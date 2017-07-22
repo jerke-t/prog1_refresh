@@ -1,0 +1,5 @@
+C:\Users\Jerke\Desktop\new\Programmeren1\oef4\bin\Debug\oef4.exe.config
+C:\Users\Jerke\Desktop\new\Programmeren1\oef4\bin\Debug\oef4.exe
+C:\Users\Jerke\Desktop\new\Programmeren1\oef4\bin\Debug\oef4.pdb
+C:\Users\Jerke\Desktop\new\Programmeren1\oef4\obj\Debug\oef4.exe
+C:\Users\Jerke\Desktop\new\Programmeren1\oef4\obj\Debug\oef4.pdb
