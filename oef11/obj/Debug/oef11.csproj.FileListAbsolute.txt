@@ -1,0 +1,5 @@
+C:\Users\Jerke\Documents\School\Prog 1\gitprog1\Programmeren1\oef11\bin\Debug\oef11.exe.config
+C:\Users\Jerke\Documents\School\Prog 1\gitprog1\Programmeren1\oef11\bin\Debug\oef11.exe
+C:\Users\Jerke\Documents\School\Prog 1\gitprog1\Programmeren1\oef11\bin\Debug\oef11.pdb
+C:\Users\Jerke\Documents\School\Prog 1\gitprog1\Programmeren1\oef11\obj\Debug\oef11.exe
+C:\Users\Jerke\Documents\School\Prog 1\gitprog1\Programmeren1\oef11\obj\Debug\oef11.pdb

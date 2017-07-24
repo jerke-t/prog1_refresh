@@ -7,3 +7,6 @@ C:\Users\Jerke\Desktop\new\Programmeren1\oef10\obj\Debug\oef10.pdb
 C:\Users\Jerke\Documents\School\Prog 1\gitprog1\Programmeren1\oef10\bin\Debug\oef10.exe.config
 C:\Users\Jerke\Documents\School\Prog 1\gitprog1\Programmeren1\oef10\obj\Debug\oef10.exe
 C:\Users\Jerke\Documents\School\Prog 1\gitprog1\Programmeren1\oef10\obj\Debug\oef10.pdb
+C:\Users\Jerke\Documents\School\Prog 1\gitprog1\Programmeren1\oef10\bin\Debug\oef10.exe
+C:\Users\Jerke\Documents\School\Prog 1\gitprog1\Programmeren1\oef10\bin\Debug\oef10.pdb
+C:\Users\Jerke\Documents\School\Prog 1\gitprog1\Programmeren1\oef10\obj\Debug\oef10.csprojResolveAssemblyReference.cache
